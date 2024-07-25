@@ -1,0 +1,14 @@
+a= eval(input('enter the value of a'));
+b= eval(input('enter the value of b'));
+c=a+b;
+d=a-b;
+e=a*b;
+f=a/b;
+g=a%b;
+p=a**2;
+print('value of c = ',c);
+print('value of d = ',d);
+print('value of e = ',e);
+print('value of f = ',f);
+print('value of g = ',g);
+print('value of p = ',p);
